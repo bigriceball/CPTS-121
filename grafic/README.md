@@ -59,6 +59,11 @@ If the file is shown, the path is correct and you can compile.
 ## 5. Compile
 
 Open Terminal in this folder (`cd` into it), then run:
+**line.c Test**
+
+```bash
+cc -Wall -I/opt/homebrew/opt/sdl2-compat/include/SDL2 line.c grafic.o -L/opt/homebrew/opt/sdl2-compat/lib -lSDL2 -o line 
+```
 
 **square.c**
 
