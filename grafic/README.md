@@ -80,6 +80,7 @@ gcc -Wall -I/opt/homebrew/opt/sdl2-compat/include/SDL2 sierpinski.c grafic.o -L/
 ## 6. Run
 
 ```bash
+./line
 ./square
 ./sierpinski
 ```
