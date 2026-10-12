@@ -18,10 +18,10 @@ Without a base case, the function may keep calling itself until the program runs
 The sum of the integers from `1` to `n` can be defined as:
 
 $$
-\operatorname{sum}(n)=
+{sum}(n)=
 \begin{aligned}
 &1, && n=1,\\
-&n+\operatorname{sum}(n-1), && n>1.
+&n+{sum}(n-1), && n>1.
 \end{aligned}
 $$
 
