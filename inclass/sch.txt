@@ -1,0 +1,7 @@
+part 1: 10 minutes
+task2 :10 minutes
+task3:15 minutes
+task 4:10 minutes
+task 5:5minutes
+
+code+group answers+part5 individual answers
